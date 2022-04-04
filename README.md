@@ -8,6 +8,7 @@
 Developed a Multi-Role based Online Shopping Portal named **"ShopTronics"**. The software allows online shopping customers to accumulate a list of items for purchase, described metaphorically as “placing items in the shopping cart” or “add to cart.” Upon checkout, the software typically calculates a total for the order, including shipping and handling (i.e., postage and packing) charges and the associated taxes, as applicable.
 
 ## 📽 Sample Demo:
+https://drive.google.com/file/d/1uxkbmfXVnqmDCJPi82de64UO8x4rxKdp/view?usp=sharing
 
 ## 🏗 Built With:
 - PHP.
