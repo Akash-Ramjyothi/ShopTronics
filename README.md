@@ -76,6 +76,9 @@ Developed a Multi-Role based Online Shopping Portal named **"ShopTronics"**. The
   ☎️ PH:+91 8939928002.
 </p>
 
+## 🎁 Presentation Link:
+https://www.canva.com/design/DAE870wBacI/VXrtoa2IQ2p0TvAAAk-2OA/view?utm_content=DAE870wBacI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 🌐 References Used:
 - https://www.youtube.com/watch?v=jHBvDdz_27c
 - https://www.youtube.com/watch?v=eAK8uYtNTy4
